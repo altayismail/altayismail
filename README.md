@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm İsmail
 #### I am a Software Developer in Test.
 
-- I’m currently working on **Web Development** and **Test-Development** for my personal growth.
+- I’m currently working on **Software Development** and **Test-Development** for my personal growth.
 - I’m student at **Izmir Institue of Technology**.
 - 📫  ismailaltay3553@gmail.com
 
