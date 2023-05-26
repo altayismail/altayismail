@@ -10,7 +10,7 @@
 <br>
 
 ---
-### You can find Languages and Tools in this profile.
+### In this profile, you can find software projects which are developed by using the languages and tools that are following;
 
 <img align="left" alt="C#" width="32px" src = "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="java" width="32px" src = "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" />
