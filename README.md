@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm İsmail
-#### I am a Software Developer in Test.
+#### I am a Software Developer.
 
 - I’m currently working on **Full-Stack Software Development** and **Test-Development** for my personal growth.
 - I’m student at **Izmir Institue of Technology**.
