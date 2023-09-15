@@ -4,10 +4,8 @@
 - I’m currently working on **Full-Stack Software Development** and **Test-Development** for my personal growth.
 - I’m student at **Izmir Institue of Technology**.
 - 📫  ismailaltay3553@gmail.com
-- 
 <br>
 
----
 ### In this profile, you can find software projects which are developed by using the following languages and tools:
 
 <img align="left" alt="C#" width="32px" src = "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
