@@ -4,9 +4,7 @@
 - I’m currently working on **Full-Stack Software Development** and **Test-Development** for my personal growth.
 - I’m student at **Izmir Institue of Technology**.
 - 📫  ismailaltay3553@gmail.com
-
-### Connect with me:
-[<img align="left" alt="ismail-altay | LinkedIn" width="32px" src="https://img.icons8.com/color/48/linkedin.png" />](https://www.linkedin.com/in/ismailaltay/)
+- 
 <br>
 
 ---
