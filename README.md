@@ -5,9 +5,8 @@
 - I have a background in professional Software Test Engineering.
 - I have developed many full-stack web application projects.
 - I’m currently working on-chain gaming.
-<br>
 
-### In this profile, you can find software projects which are developed by using the following languages and tools:
+### In my repo, you can find software projects which are developed by using the following languages and tools:
 
 <img align="left" alt="C#" width="32px" src = "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="java" width="32px" src = "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" />
