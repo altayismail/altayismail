@@ -2,10 +2,9 @@
 #### I am a Game Developer.
 
 - I’m student of Electronics and Communications Engineering at **Izmir Institute of Technology**.
-- I have a background in professional Software Testing Engineering.
-- I developed many full-stack web application projects.
-- I’m currently working On-Chain gaming for Team Nakamo.
-- If you wanna contact me: 📫  ismailaltay3553@gmail.com
+- I have a background in professional Software Test Engineering.
+- I have developed many full-stack web application projects.
+- I’m currently working on-chain gaming.
 <br>
 
 ### In this profile, you can find software projects which are developed by using the following languages and tools:
