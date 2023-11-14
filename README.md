@@ -1,9 +1,11 @@
 ### Hi there 👋, I'm İsmail
-#### I am a Software Developer.
+#### I am a Game Developer.
 
-- I’m currently working on **Full-Stack Software Development** and **Test-Development** for my personal growth.
-- I’m student at **Izmir Institue of Technology**.
-- 📫  ismailaltay3553@gmail.com
+- I’m student of Electronics and Communications Engineering at **Izmir Institue of Technology**.
+- I have a background in professional Software Testing Engineering.
+- I developed many full-stack web application projects.
+- I’m currently working On-Chain gaming for Team Nakamo.
+- If you wanna contact me: 📫  ismailaltay3553@gmail.com
 <br>
 
 ### In this profile, you can find software projects which are developed by using the following languages and tools:
