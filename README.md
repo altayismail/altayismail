@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm İsmail
 #### I am a Game Developer.
 
-- I’m student of Electronics and Communications Engineering at **Izmir Institute of Technology**.
+- I have a bachelor's degree in Electronics and Communications Engineering at **Izmir Institute of Technology**.
 - I have a background in professional Software Test Engineering.
 - I have developed many full-stack web application projects.
-- I’m currently working on-chain gaming.
+- I’m currently working on on-chain games as a Game Developer.
 
 ### In my repo, you can find software projects which are developed by using the following languages and tools:
 
