@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm İsmail
-#### I am a Game Developer.
+#### I am a Software Developer.
 
 - I have a bachelor's degree in Electronics and Communications Engineering at **Izmir Institute of Technology**.
 - I have a background in professional Software Test Engineering.
 - I have developed many full-stack web application projects.
-- I’m currently working on on-chain games as a Game Developer.
+- I have worked on [Chaquer](https://github.com/demirbey05/chaquer-rts) which is a fully on-chain game project, as a Client Side Developer.
+- I’m currently working on [Pioneers of New World](https://pioneers.game) as a Client Side Developer.
 
 ### In my repo, you can find software projects which are developed by using the following languages and tools:
 
