@@ -1,13 +1,13 @@
-### Hi there 👋, I'm Ismail
+### Hi there 👋
 #### About me
 
 - I have a bachelor's degree in Electronics and Communications Engineering at **Izmir Institute of Technology**.
-- I have a background in professional Software Test Engineering.
+- I have a background in Software Test Engineering.
 - I have developed many full-stack web application projects.
 - I have worked on [Chaquer](https://github.com/demirbey05/chaquer-rts) which is a fully on-chain game project, as a Client Side Developer.
 - I’m currently working on [Pioneers of New World](https://pioneers.game) as a Client Side Developer.
 
-### In my repo, you can find software projects which are developed by using the following languages and tools:
+#### In my repo, you can find software projects which are developed by using the following languages and tools:
 
 <img align="left" alt="C#" width="32px" src = "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="dotnet-core" width="32px" src = "https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
