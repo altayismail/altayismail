@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### About me
 
-- I have a bachelor's degree in Electronics and Communications Engineering at **Izmir Institute of Technology**.
+- I have a bachelor's degree in Electronics and Communication Engineering at **Izmir Institute of Technology**.
 - I have a background in Software Test Engineering.
 - I have developed many full-stack web application projects.
 - I have worked on [Chaquer](https://github.com/demirbey05/chaquer-rts) which is a fully on-chain game project, as a Client Side Developer.
